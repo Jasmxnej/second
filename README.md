@@ -1,4 +1,6 @@
-Markdown Cheatsheet<a name="TOP></a>
+Person 1: Markdown Cheatsheet
+Person 2: Phitchayapha Buapha
+<a name="TOP></a>
 ===============
 ----
 # Heading 1 #
